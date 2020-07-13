@@ -1,13 +1,13 @@
-package com.skykis.designPatterns;
+package com.skykis.principle;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DesignPatternsApplicationTests {
+class PrincipleApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }

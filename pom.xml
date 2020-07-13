@@ -13,10 +13,17 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>designPatterns</name>
 	<description> designPatterns-learning</description>
+	<!-- 父项目的packaging必须为pom -->
+	<packaging>pom</packaging>
 
 	<properties>
 		<java.version>14</java.version>
 	</properties>
+
+	<!-- 子模块 -->
+	<modules>
+		<module>principle</module>
+	</modules>
 
 	<dependencies>
 		<dependency>
