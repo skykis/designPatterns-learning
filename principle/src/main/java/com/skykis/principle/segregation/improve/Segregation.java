@@ -18,7 +18,7 @@ interface Interface3 {
 
 /**
  * 接口隔离原则
- * Interface1分别相对A和C不是最小接口
+ * Interface拆分成3个接口供B,D实现
  * 解决方案：拆分
  */
 public class Segregation {

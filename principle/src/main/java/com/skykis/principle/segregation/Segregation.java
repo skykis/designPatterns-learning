@@ -14,7 +14,7 @@ interface Interface {
 
 /**
  * 接口隔离原则
- * Interface1分别相对A和C不是最小接口
+ * Interface分别相对A和C不是最小接口
  * 解决方案：拆分
  */
 public class Segregation {
