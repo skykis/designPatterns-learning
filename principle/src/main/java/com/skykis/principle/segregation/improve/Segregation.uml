@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.skykis.principle.segregation.improve.Interface1</OriginalElement>
+  <nodes>
+    <node x="299.5" y="11.5">com.skykis.principle.segregation.improve.Interface1</node>
+    <node x="76.0" y="0.0">com.skykis.principle.segregation.improve.Interface2</node>
+    <node x="523.0" y="0.0">com.skykis.principle.segregation.improve.Interface3</node>
+    <node x="215.0" y="128.0">com.skykis.principle.segregation.improve.B</node>
+    <node x="0.0" y="128.0">com.skykis.principle.segregation.improve.A</node>
+    <node x="384.0" y="128.0">com.skykis.principle.segregation.improve.D</node>
+    <node x="553.0" y="128.0">com.skykis.principle.segregation.improve.C</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.skykis.principle.segregation.improve.C" target="com.skykis.principle.segregation.improve.Interface1">
+      <point x="-48.75" y="-50.5" />
+      <point x="601.75" y="98.0" />
+      <point x="429.875" y="98.0" />
+      <point x="55.875" y="27.5" />
+    </edge>
+    <edge source="com.skykis.principle.segregation.improve.D" target="com.skykis.principle.segregation.improve.Interface1">
+      <point x="-37.25" y="-50.5" />
+      <point x="421.25" y="108.0" />
+      <point x="392.625" y="108.0" />
+      <point x="18.625" y="27.5" />
+    </edge>
+    <edge source="com.skykis.principle.segregation.improve.A" target="com.skykis.principle.segregation.improve.Interface2">
+      <point x="-48.75" y="-50.5" />
+      <point x="48.75" y="108.0" />
+      <point x="113.25" y="108.0" />
+      <point x="-37.25" y="39.0" />
+    </edge>
+    <edge source="com.skykis.principle.segregation.improve.A" target="com.skykis.principle.segregation.improve.Interface1">
+      <point x="48.75" y="-50.5" />
+      <point x="146.25" y="108.0" />
+      <point x="318.125" y="108.0" />
+      <point x="-55.875" y="27.5" />
+    </edge>
+    <edge source="com.skykis.principle.segregation.improve.C" target="com.skykis.principle.segregation.improve.Interface3">
+      <point x="48.75" y="-50.5" />
+      <point x="699.25" y="108.0" />
+      <point x="634.75" y="108.0" />
+      <point x="37.25" y="39.0" />
+    </edge>
+    <edge source="com.skykis.principle.segregation.improve.B" target="com.skykis.principle.segregation.improve.Interface2">
+      <point x="-37.25" y="-50.5" />
+      <point x="252.25" y="98.0" />
+      <point x="187.75" y="98.0" />
+      <point x="37.25" y="39.0" />
+    </edge>
+    <edge source="com.skykis.principle.segregation.improve.B" target="com.skykis.principle.segregation.improve.Interface1">
+      <point x="37.25" y="-50.5" />
+      <point x="326.75" y="108.0" />
+      <point x="355.375" y="108.0" />
+      <point x="-18.625" y="27.5" />
+    </edge>
+    <edge source="com.skykis.principle.segregation.improve.D" target="com.skykis.principle.segregation.improve.Interface3">
+      <point x="37.25" y="-50.5" />
+      <point x="495.75" y="108.0" />
+      <point x="560.25" y="108.0" />
+      <point x="-37.25" y="39.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="374.0" y="119.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
