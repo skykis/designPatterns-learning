@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.skykis.principle.liskow.improve.Base</OriginalElement>
+  <nodes>
+    <node x="73.02083333333333" y="0.0">com.skykis.principle.liskow.improve.Base</node>
+    <node x="29.354166666666657" y="208.0">com.skykis.principle.liskow.improve.B</node>
+    <node x="0.0" y="103.0">com.skykis.principle.liskow.improve.A</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.skykis.principle.liskow.improve.A" target="com.skykis.principle.liskow.improve.Base">
+      <point x="0.0" y="-27.5" />
+      <point x="70.0" y="78.0" />
+      <point x="93.02083333333333" y="78.0" />
+      <point x="-20.0" y="26.5" />
+    </edge>
+    <edge source="com.skykis.principle.liskow.improve.B" target="com.skykis.principle.liskow.improve.Base">
+      <point x="46.66666666666667" y="-50.5" />
+      <point x="146.02083333333331" y="183.0" />
+      <point x="150.5" y="183.0" />
+      <point x="150.5" y="78.0" />
+      <point x="133.02083333333331" y="78.0" />
+      <point x="20.0" y="26.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="85.0" y="154.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
